@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: 9175395d88fdb4540b655caf3055b7b6
+timeCreated: 1515672419
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body1
+    100002: Body1 1
+    100004: Body1 2
+    100006: Body10
+    100008: Body100
+    100010: Body101
+    100012: Body102
+    100014: Body103
+    100016: Body104
+    100018: Body105
+    100020: Body106
+    100022: Body107
+    100024: Body108
+    100026: Body109
+    100028: Body11
+    100030: Body110
+    100032: Body111
+    100034: Body112
+    100036: Body12
+    100038: Body126
+    100040: Body127
+    100042: Body128
+    100044: Body129
+    100046: Body13
+    100048: Body131
+    100050: Body136
+    100052: Body137
+    100054: Body138
+    100056: Body139
+    100058: Body14
+    100060: Body140
+    100062: Body141
+    100064: Body15
+    100066: Body16
+    100068: Body17
+    100070: Body18
+    100072: Body19
+    100074: Body20
+    100076: Body21
+    100078: Body22
+    100080: Body23
+    100082: Body24
+    100084: Body29
+    100086: Body31
+    100088: Body33
+    100090: Body46
+    100092: Body47
+    100094: Body48
+    100096: Body49
+    100098: Body50
+    100100: Body51
+    100102: Body52
+    100104: Body53
+    100106: Body54
+    100108: Body55
+    100110: Body56
+    100112: Body57
+    100114: Body58
+    100116: Body59
+    100118: Body60
+    100120: Body61
+    100122: Body62
+    100124: Body63
+    100126: Body64
+    100128: Body65
+    100130: Body66
+    100132: Body67
+    100134: Body68
+    100136: Body69
+    100138: Body7
+    100140: Body70
+    100142: Body71
+    100144: Body72
+    100146: Body73
+    100148: Body74
+    100150: Body75
+    100152: Body76
+    100154: Body77
+    100156: Body78
+    100158: Body79
+    100160: Body8
+    100162: Body80
+    100164: Body81
+    100166: Body82
+    100168: Body83
+    100170: Body84
+    100172: Body85
+    100174: Body86
+    100176: Body87
+    100178: Body88
+    100180: Body89
+    100182: Body9
+    100184: Body90
+    100186: Body91
+    100188: Body92
+    100190: Body93
+    100192: Body94
+    100194: Body95
+    100196: Body96
+    100198: Body97
+    100200: Body98
+    100202: Body99
+    100204: LCD
+    100206: LCD (1)
+    100208: LCD (1) 1
+    100210: LCD 1
+    100212: model 2 v4
+    100214: model 2 v4 1
+    100216: model 2 v4:1
+    100218: model 2 v4:2
+    100220: //RootNode
+    100222: "\u65E5\u5DEE\u3057\u3088\u3051"
+    100224: "\u65E5\u5DEE\u3057\u3088\u3051 1"
+    100226: "\u81EA\u52D5\u30C9\u30A21"
+    100228: "\u81EA\u52D5\u30C9\u30A21 1"
+    100230: "\u81EA\u52D5\u30C9\u30A22 "
+    100232: "\u81EA\u52D5\u30C9\u30A22  1"
+    400000: Body1
+    400002: Body1 1
+    400004: Body1 2
+    400006: Body10
+    400008: Body100
+    400010: Body101
+    400012: Body102
+    400014: Body103
+    400016: Body104
+    400018: Body105
+    400020: Body106
+    400022: Body107
+    400024: Body108
+    400026: Body109
+    400028: Body11
+    400030: Body110
+    400032: Body111
+    400034: Body112
+    400036: Body12
+    400038: Body126
+    400040: Body127
+    400042: Body128
+    400044: Body129
+    400046: Body13
+    400048: Body131
+    400050: Body136
+    400052: Body137
+    400054: Body138
+    400056: Body139
+    400058: Body14
+    400060: Body140
+    400062: Body141
+    400064: Body15
+    400066: Body16
+    400068: Body17
+    400070: Body18
+    400072: Body19
+    400074: Body20
+    400076: Body21
+    400078: Body22
+    400080: Body23
+    400082: Body24
+    400084: Body29
+    400086: Body31
+    400088: Body33
+    400090: Body46
+    400092: Body47
+    400094: Body48
+    400096: Body49
+    400098: Body50
+    400100: Body51
+    400102: Body52
+    400104: Body53
+    400106: Body54
+    400108: Body55
+    400110: Body56
+    400112: Body57
+    400114: Body58
+    400116: Body59
+    400118: Body60
+    400120: Body61
+    400122: Body62
+    400124: Body63
+    400126: Body64
+    400128: Body65
+    400130: Body66
+    400132: Body67
+    400134: Body68
+    400136: Body69
+    400138: Body7
+    400140: Body70
+    400142: Body71
+    400144: Body72
+    400146: Body73
+    400148: Body74
+    400150: Body75
+    400152: Body76
+    400154: Body77
+    400156: Body78
+    400158: Body79
+    400160: Body8
+    400162: Body80
+    400164: Body81
+    400166: Body82
+    400168: Body83
+    400170: Body84
+    400172: Body85
+    400174: Body86
+    400176: Body87
+    400178: Body88
+    400180: Body89
+    400182: Body9
+    400184: Body90
+    400186: Body91
+    400188: Body92
+    400190: Body93
+    400192: Body94
+    400194: Body95
+    400196: Body96
+    400198: Body97
+    400200: Body98
+    400202: Body99
+    400204: LCD
+    400206: LCD (1)
+    400208: LCD (1) 1
+    400210: LCD 1
+    400212: model 2 v4
+    400214: model 2 v4 1
+    400216: model 2 v4:1
+    400218: model 2 v4:2
+    400220: //RootNode
+    400222: "\u65E5\u5DEE\u3057\u3088\u3051"
+    400224: "\u65E5\u5DEE\u3057\u3088\u3051 1"
+    400226: "\u81EA\u52D5\u30C9\u30A21"
+    400228: "\u81EA\u52D5\u30C9\u30A21 1"
+    400230: "\u81EA\u52D5\u30C9\u30A22 "
+    400232: "\u81EA\u52D5\u30C9\u30A22  1"
+    2100000: Surface - Matte
+    2100002: No Name
+    2100004: Glass (Grey)
+    2100006: Glass - Window
+    2100008: Concrete
+    2100010: Asphalt
+    2100012: Glass - Light Color (Blue)
+    2100014: Steel - Satin
+    2300000: Body1
+    2300002: Body1 1
+    2300004: Body1 2
+    2300006: Body10
+    2300008: Body100
+    2300010: Body101
+    2300012: Body102
+    2300014: Body103
+    2300016: Body104
+    2300018: Body105
+    2300020: Body106
+    2300022: Body107
+    2300024: Body108
+    2300026: Body109
+    2300028: Body11
+    2300030: Body110
+    2300032: Body111
+    2300034: Body112
+    2300036: Body12
+    2300038: Body126
+    2300040: Body127
+    2300042: Body128
+    2300044: Body129
+    2300046: Body13
+    2300048: Body131
+    2300050: Body136
+    2300052: Body137
+    2300054: Body138
+    2300056: Body139
+    2300058: Body14
+    2300060: Body140
+    2300062: Body141
+    2300064: Body15
+    2300066: Body16
+    2300068: Body17
+    2300070: Body18
+    2300072: Body19
+    2300074: Body20
+    2300076: Body21
+    2300078: Body22
+    2300080: Body23
+    2300082: Body24
+    2300084: Body29
+    2300086: Body31
+    2300088: Body33
+    2300090: Body46
+    2300092: Body47
+    2300094: Body48
+    2300096: Body49
+    2300098: Body50
+    2300100: Body51
+    2300102: Body52
+    2300104: Body53
+    2300106: Body54
+    2300108: Body55
+    2300110: Body56
+    2300112: Body57
+    2300114: Body58
+    2300116: Body59
+    2300118: Body60
+    2300120: Body61
+    2300122: Body62
+    2300124: Body63
+    2300126: Body64
+    2300128: Body65
+    2300130: Body66
+    2300132: Body67
+    2300134: Body68
+    2300136: Body69
+    2300138: Body7
+    2300140: Body70
+    2300142: Body71
+    2300144: Body72
+    2300146: Body73
+    2300148: Body74
+    2300150: Body75
+    2300152: Body76
+    2300154: Body77
+    2300156: Body78
+    2300158: Body79
+    2300160: Body8
+    2300162: Body80
+    2300164: Body81
+    2300166: Body82
+    2300168: Body83
+    2300170: Body84
+    2300172: Body85
+    2300174: Body86
+    2300176: Body87
+    2300178: Body88
+    2300180: Body89
+    2300182: Body9
+    2300184: Body90
+    2300186: Body91
+    2300188: Body92
+    2300190: Body93
+    2300192: Body94
+    2300194: Body95
+    2300196: Body96
+    2300198: Body97
+    2300200: Body98
+    2300202: Body99
+    2300204: LCD
+    2300206: LCD (1)
+    2300208: LCD (1) 1
+    2300210: LCD 1
+    2300212: "\u65E5\u5DEE\u3057\u3088\u3051"
+    2300214: "\u65E5\u5DEE\u3057\u3088\u3051 1"
+    2300216: "\u81EA\u52D5\u30C9\u30A21"
+    2300218: "\u81EA\u52D5\u30C9\u30A21 1"
+    2300220: "\u81EA\u52D5\u30C9\u30A22 "
+    2300222: "\u81EA\u52D5\u30C9\u30A22  1"
+    3300000: Body1
+    3300002: Body1 1
+    3300004: Body1 2
+    3300006: Body10
+    3300008: Body100
+    3300010: Body101
+    3300012: Body102
+    3300014: Body103
+    3300016: Body104
+    3300018: Body105
+    3300020: Body106
+    3300022: Body107
+    3300024: Body108
+    3300026: Body109
+    3300028: Body11
+    3300030: Body110
+    3300032: Body111
+    3300034: Body112
+    3300036: Body12
+    3300038: Body126
+    3300040: Body127
+    3300042: Body128
+    3300044: Body129
+    3300046: Body13
+    3300048: Body131
+    3300050: Body136
+    3300052: Body137
+    3300054: Body138
+    3300056: Body139
+    3300058: Body14
+    3300060: Body140
+    3300062: Body141
+    3300064: Body15
+    3300066: Body16
+    3300068: Body17
+    3300070: Body18
+    3300072: Body19
+    3300074: Body20
+    3300076: Body21
+    3300078: Body22
+    3300080: Body23
+    3300082: Body24
+    3300084: Body29
+    3300086: Body31
+    3300088: Body33
+    3300090: Body46
+    3300092: Body47
+    3300094: Body48
+    3300096: Body49
+    3300098: Body50
+    3300100: Body51
+    3300102: Body52
+    3300104: Body53
+    3300106: Body54
+    3300108: Body55
+    3300110: Body56
+    3300112: Body57
+    3300114: Body58
+    3300116: Body59
+    3300118: Body60
+    3300120: Body61
+    3300122: Body62
+    3300124: Body63
+    3300126: Body64
+    3300128: Body65
+    3300130: Body66
+    3300132: Body67
+    3300134: Body68
+    3300136: Body69
+    3300138: Body7
+    3300140: Body70
+    3300142: Body71
+    3300144: Body72
+    3300146: Body73
+    3300148: Body74
+    3300150: Body75
+    3300152: Body76
+    3300154: Body77
+    3300156: Body78
+    3300158: Body79
+    3300160: Body8
+    3300162: Body80
+    3300164: Body81
+    3300166: Body82
+    3300168: Body83
+    3300170: Body84
+    3300172: Body85
+    3300174: Body86
+    3300176: Body87
+    3300178: Body88
+    3300180: Body89
+    3300182: Body9
+    3300184: Body90
+    3300186: Body91
+    3300188: Body92
+    3300190: Body93
+    3300192: Body94
+    3300194: Body95
+    3300196: Body96
+    3300198: Body97
+    3300200: Body98
+    3300202: Body99
+    3300204: LCD
+    3300206: LCD (1)
+    3300208: LCD (1) 1
+    3300210: LCD 1
+    3300212: "\u65E5\u5DEE\u3057\u3088\u3051"
+    3300214: "\u65E5\u5DEE\u3057\u3088\u3051 1"
+    3300216: "\u81EA\u52D5\u30C9\u30A21"
+    3300218: "\u81EA\u52D5\u30C9\u30A21 1"
+    3300220: "\u81EA\u52D5\u30C9\u30A22 "
+    3300222: "\u81EA\u52D5\u30C9\u30A22  1"
+    4300000: Body1
+    4300002: LCD
+    4300004: LCD (1)
+    4300006: "\u81EA\u52D5\u30C9\u30A21"
+    4300008: "\u81EA\u52D5\u30C9\u30A22 "
+    4300010: "\u65E5\u5DEE\u3057\u3088\u3051"
+    4300012: Body1
+    4300014: Body7
+    4300016: Body8
+    4300018: Body9
+    4300020: Body10
+    4300022: Body11
+    4300024: Body12
+    4300026: Body13
+    4300028: Body14
+    4300030: Body15
+    4300032: Body16
+    4300034: Body17
+    4300036: Body18
+    4300038: Body19
+    4300040: Body20
+    4300042: Body21
+    4300044: Body22
+    4300046: Body23
+    4300048: Body24
+    4300050: Body29
+    4300052: Body31
+    4300054: Body33
+    4300056: Body46
+    4300058: Body47
+    4300060: Body48
+    4300062: Body49
+    4300064: Body50
+    4300066: Body51
+    4300068: Body52
+    4300070: Body53
+    4300072: Body54
+    4300074: Body55
+    4300076: Body56
+    4300078: Body57
+    4300080: Body58
+    4300082: Body59
+    4300084: Body60
+    4300086: Body61
+    4300088: Body62
+    4300090: Body63
+    4300092: Body64
+    4300094: Body65
+    4300096: Body66
+    4300098: Body67
+    4300100: Body68
+    4300102: Body69
+    4300104: Body70
+    4300106: Body71
+    4300108: Body72
+    4300110: Body73
+    4300112: Body74
+    4300114: Body75
+    4300116: Body76
+    4300118: Body77
+    4300120: Body78
+    4300122: Body79
+    4300124: Body80
+    4300126: Body81
+    4300128: Body82
+    4300130: Body83
+    4300132: Body84
+    4300134: Body85
+    4300136: Body86
+    4300138: Body87
+    4300140: Body88
+    4300142: Body89
+    4300144: Body90
+    4300146: Body91
+    4300148: Body92
+    4300150: Body93
+    4300152: Body94
+    4300154: Body95
+    4300156: Body96
+    4300158: Body97
+    4300160: Body98
+    4300162: Body99
+    4300164: Body100
+    4300166: Body101
+    4300168: Body102
+    4300170: Body103
+    4300172: Body104
+    4300174: Body105
+    4300176: Body106
+    4300178: Body107
+    4300180: Body108
+    4300182: Body109
+    4300184: Body110
+    4300186: Body111
+    4300188: Body112
+    4300190: Body126
+    4300192: Body127
+    4300194: Body128
+    4300196: Body129
+    4300198: Body131
+    4300200: Body136
+    4300202: Body137
+    4300204: Body138
+    4300206: Body139
+    4300208: Body140
+    4300210: Body141
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
